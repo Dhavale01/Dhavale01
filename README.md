@@ -72,7 +72,7 @@ Data Science Graduate | Machine Learning Enthusiast | AI Builder
 
 `Python` `Streamlit` `Scikit-learn` `Pandas` `NumPy` `NLTK` `spaCy`
 
-🔗 **Repository:** *(Add the repository link after uploading the project)*
+🔗 **Repository:
 
 🌐 **Live Demo:** *(Coming Soon)*
 
