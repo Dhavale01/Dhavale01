@@ -72,7 +72,7 @@ Data Science Graduate | Machine Learning Enthusiast | AI Builder
 
 `Python` `Streamlit` `Scikit-learn` `Pandas` `NumPy` `NLTK` `spaCy`
 
-🔗 **Repository:
+🔗 **Repository:"https://github.com/Dhavale01/AI-ATS-Resume-Screening-System"
 
 🌐 **Live Demo:** *(Coming Soon)*
 
