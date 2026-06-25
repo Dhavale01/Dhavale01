@@ -55,18 +55,26 @@ Data Science Graduate | Machine Learning Enthusiast | AI Builder
 ---
 
 ## 🚀 Featured Project
+### 🤖 AI-Powered ATS Resume Screening & Candidate Ranking System
 
-### AI-Powered ATS Resume Screening & Candidate Ranking System
+> An intelligent resume screening system that leverages Natural Language Processing (NLP) and Machine Learning techniques to automatically analyze, rank, and evaluate resumes against job descriptions.
 
-Features:
+#### ✨ Key Features
 
-- Resume Parsing
-- TF-IDF Matching
-- Candidate Ranking
-- Skill Gap Analysis
-- Interactive Streamlit Dashboard
+- 📄 Resume Parsing & Information Extraction
+- 🎯 TF-IDF & Cosine Similarity Matching
+- 📊 Candidate Ranking Dashboard
+- 🧠 Skill Gap Analysis
+- 📈 Interactive Streamlit Dashboard
+- ⚡ Automated Resume Evaluation
 
----
+#### 🛠️ Technologies Used
+
+`Python` `Streamlit` `Scikit-learn` `Pandas` `NumPy` `NLTK` `spaCy`
+
+🔗 **Repository:** *(Add the repository link after uploading the project)*
+
+🌐 **Live Demo:** *(Coming Soon)*
 
 ## 🎯 2026 Goals
 
