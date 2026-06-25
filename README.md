@@ -75,7 +75,9 @@ Data Science Graduate | Machine Learning Enthusiast | AI Builder
 🔗 **Repository:** *(Add the repository link after uploading the project)*
 
 🌐 **Live Demo:** *(Coming Soon)*
+
 ---
+
 ## 🎯 2026 Goals
 
 - Build 10+ Professional Data Science Projects
