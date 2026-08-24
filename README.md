@@ -8,15 +8,7 @@ Data Science Graduate | Machine Learning Enthusiast | AI Builder
 
 ## 👨‍💻 About Me
 
-🎓 B.Sc. Data Science & Business Analytics Graduate
-
-💼 Currently seeking Internship & Entry-Level Opportunities
-
-🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science and NLP
-
-📚 Preparing for Higher Studies while building real-world AI projects
-
-🎯 Goal: Become an AI Engineer / Data Scientist
+I'm a B.Sc. Data Science & Business Analytics graduate 🎓 seeking internship and entry-level opportunities in AI and Data Science. I'm passionate about Machine Learning, NLP, and building real-world AI projects that turn concepts into practical solutions. I'm also preparing for higher studies while continuing to sharpen my technical skills, with the goal of growing into an AI Engineer / Data Scientist.
 
 ---
 ## 🛠️ Tech Stack
