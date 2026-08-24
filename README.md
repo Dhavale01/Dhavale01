@@ -102,7 +102,7 @@ https://www.linkedin.com/in/chaitanya-dhavale-7b8ba5284/
 
 **Instagram:**
 <a href="https://www.instagram.com/dhavale.chaitanya/" target="_blank">
-  <img src="https://img.shields.io/badge/purple?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" width="28" height="28">
 </a>
 
 ---
