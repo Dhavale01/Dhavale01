@@ -28,12 +28,11 @@ I'm a B.Sc. Data Science & Business Analytics graduate 🎓 seeking internship a
 ---
 ## 🛠️ Tech Stack
 
-### Languages
+# Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-### Data Science & ML
+# Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -46,7 +45,7 @@ I'm a B.Sc. Data Science & Business Analytics graduate 🎓 seeking internship a
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Frameworks & Tools
+# Frameworks & Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -55,7 +54,7 @@ I'm a B.Sc. Data Science & Business Analytics graduate 🎓 seeking internship a
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Currently Learning
+# Currently Learning
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
