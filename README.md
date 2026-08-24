@@ -14,10 +14,11 @@ Data Science Graduate | Machine Learning Enthusiast | AI Builder
   <a href="https://github.com/Dhavale01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/dhavale.chaitanya/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" width="28" height="28" style="vertical-align:middle;">
+  </a>
 </p>
-<a href="https://www.instagram.com/dhavale.chaitanya/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" width="28" height="28">
-</a>
+
 ---
 
 ## 👨‍💻 About Me
