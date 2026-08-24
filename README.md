@@ -15,7 +15,9 @@ Data Science Graduate | Machine Learning Enthusiast | AI Builder
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
+<a href="https://www.instagram.com/dhavale.chaitanya/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" width="28" height="28">
+</a>
 ---
 
 ## 👨‍💻 About Me
@@ -92,18 +94,10 @@ I'm a B.Sc. Data Science & Business Analytics graduate 🎓 seeking internship a
 - Pursue Higher Studies
 
 ---
+##Gmail
 
-## 📫 Connect With Me
-
-📧 **Email:** buildwithchaitanya.dh@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/chaitanya-dhavale-7b8ba5284/
-
-**Instagram:**
-<a href="https://www.instagram.com/dhavale.chaitanya/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" width="28" height="28">
-</a>
+📧 **Work Email:** buildwithchaitanya.dh@gmail.com
+📧**Personal Email:** dhavalechaitanya02@gmail.com
 
 ---
 
