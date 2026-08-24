@@ -100,9 +100,10 @@ I'm a B.Sc. Data Science & Business Analytics graduate 🎓 seeking internship a
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/chaitanya-dhavale-7b8ba5284/
 
-**Instagram: **
-[![Instagram](https://shields.io)](https://instagram.com)
-https://www.instagram.com/dhavale.chaitanya/?hl=en
+**Instagram:**
+<a href="https://www.instagram.com/dhavale.chaitanya/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 ---
 
