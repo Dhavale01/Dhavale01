@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Dhavale</h1>
+<h1 align="center">Hey there, I'm Chaitanya Dhavale</h1>
 
 <h3 align="center">
 Data Science Graduate | Machine Learning Enthusiast | AI Builder
