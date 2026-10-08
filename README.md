@@ -61,19 +61,11 @@ I'm a B.Sc. Data Science & Business Analytics graduate 🎓 seeking internship a
 ---
 
 ## 🚀 Featured Project
-### 🤖 AI-Powered ATS Resume Screening & Candidate Ranking System
+---
 
-> An intelligent resume screening system that leverages Natural Language Processing (NLP) and Machine Learning techniques to automatically analyze, rank, and evaluate resumes against job descriptions.
-
-#### ✨ Key Features
-
-- 📄 Resume Parsing & Information Extraction
-- 🎯 TF-IDF & Cosine Similarity Matching
-- 📊 Candidate Ranking Dashboard
-- 🧠 Skill Gap Analysis
-- 📈 Interactive Streamlit Dashboard
-- ⚡ Automated Resume Evaluation
-
+| Project | Description | Stack |
+|---|---|---|
+| **[AI-Powered ATS Resume Screening & Candidate Ranking System](https://github.com/Dhavale01/AI-ATS-Resume-Screening-System)** | An end-to-end NLP-powered recruitment pipeline that processes resume PDFs, performs text extraction and cleaning, extracts candidate skills, computes **TF-IDF + Cosine Similarity** against job descriptions, generates ATS scores, ranks candidates, and performs automated skill-gap analysis through an interactive dashboard. | `Python`<br>`Streamlit`<br>`Scikit-learn`<br>`Pandas`<br>`NumPy`<br>`NLTK`<br>`spaCy` |
 #### 🛠️ Technologies Used
 
 `Python` `Streamlit` `Scikit-learn` `Pandas` `NumPy` `NLTK` `spaCy`
